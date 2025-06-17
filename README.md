@@ -33,7 +33,7 @@ Currently exploring the DevOps universe while diving deep into Java development.
 
 📫 **Let's Connect!**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mohdazimi/)  
-- 🧠 [LeetCode](https://leetcode.com/mohdazimi83/)  
+- 🧠 [LeetCode](https://leetcode.com/u/mohdazimi083/)  
 - 📩 Email: mohdazimi083@gmail.com  
 
 ---
