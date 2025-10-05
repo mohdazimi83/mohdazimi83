@@ -1,49 +1,62 @@
-<h1 align="center">👋 Hey there, I'm Mohammad Azim</h1>
-<h3 align="center">💻 Software Developer | ☕ Java & Web Enthusiast | 🚀 Lifelong Learner</h3>
+<h1 align="center">✨ Hey there, I'm Mohammad Azim 👋</h1>
+<h3 align="center">🚀 Software Developer | ☕ Java Enthusiast | 🌐 Web Developer in Progress</h3>
 
 ---
 
-### 🌟 About Me  
-🎓 I’m a **B.Tech Computer Science & Engineering** graduate passionate about developing efficient, user-focused, and creative digital solutions.  
-With a growing skill set in **Web Development**, **Java (OOPs)**, and **Database Management**, I’m on a journey to become a **skilled Software Developer**.  
-
-💡 I believe technology isn’t just about writing code — it’s about solving real problems and building experiences that make life easier.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohdazimi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools  
-| Category | Skills |
-|-----------|---------|
-| 💻 **Languages** | Java (OOPs), JavaScript |
-| 🌐 **Web** | HTML, CSS, JavaScript |
-| 🗄️ **Database** | MySQL |
-| ⚙️ **Tools** | Git, GitHub, Excel |
-| 🚀 **Focus Areas** | Backend Development, Problem Solving, Project Optimization |
+### 💫 About Me  
+🎓 I’m a **Computer Science & Engineering graduate (2025)** who loves turning ideas into interactive and functional projects.  
+💻 I enjoy blending creativity and logic through **Java (OOPs)** and **Web Development**.  
+🌱 Currently sharpening my skills to become a **versatile Software Developer**.  
 
 ---
 
-### 🔥 What I’m Currently Working On  
-- 📚 Mastering **Java backend concepts** and **SQL queries**  
-- 💻 Building **interactive web applications**  
-- 🧠 Improving logical thinking through **LeetCode challenges**  
-- 🌍 Learning **best Dev workflows** with Git & GitHub  
+### 🛠️ My Skill Arsenal  
+💡 **Languages:** Java, JavaScript  
+🎨 **Frontend:** HTML, CSS, JavaScript  
+🗄️ **Database:** MySQL  
+🧰 **Tools:** Git, GitHub, Excel  
+🚀 **Areas of Interest:** Backend Logic, Problem Solving, Automation  
 
 ---
 
-### 🎯 My Vision  
-To become a **Software Developer** who blends creativity, logic, and technology to create meaningful solutions.  
-I aim to grow in a collaborative environment where innovation and learning never stop.  
+### 🔭 Current Focus  
+- ☕ Deep-diving into **Java backend** and **SQL**  
+- 🌐 Building real-world **web projects**  
+- ⚙️ Enhancing **version control** practices using Git & GitHub  
+- 💬 Engaging with developer communities & continuous learning  
 
 ---
 
-### 🤝 Let’s Connect  
-- 🌐 [**LinkedIn**](https://www.linkedin.com/in/mohdazimi/)  
-- 🧩 [**LeetCode**](https://leetcode.com/u/mohdazimi083/)  
-- 📩 **Email:** mohdazimi083@gmail.com  
+### 💬 Let’s Collaborate On  
+- Innovative web or backend projects  
+- Clean UI designs and real-world logic integration  
+- Learning and knowledge-sharing sessions 😄  
 
 ---
 
-### ⚡ Fun Fact  
-> “Every great line of code starts with curiosity — and a cup of coffee ☕.”  
-Always learning. Always improving. Always building. 🚀  
+### 🌍 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohdazimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/mohdazimi083/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:mohdazimi083@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdazimi&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazimi&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+### ⚡ Quote I Live By  
+> “Code with logic, design with purpose, and learn with curiosity.”  
+Let’s build something extraordinary together 🚀
