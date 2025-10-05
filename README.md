@@ -1,46 +1,41 @@
-<h1 align="center">✨ Hey there, I'm Mohammad Azim 👋</h1>
-<h3 align="center">🚀 Software Developer | ☕ Java Enthusiast | 🌐 Web Developer in Progress</h3>
+<h1 align="center">👋 Hey there, I'm Mohammad Azim</h1>
+<h3 align="center">💻 Passionate Software Developer | ☕ Java & Web Enthusiast | 🚀 Lifelong Learner</h3>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohdazimi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### ✨ About Me  
+🎓 I’m a **B.Tech Computer Science & Engineering graduate (2025)** with a strong passion for building, designing, and optimizing web and software solutions.  
+💻 Skilled in **Web Development** and **Java (OOPs)**, I enjoy transforming ideas into real-world projects that are both functional and impactful.  
+🌱 Currently enhancing my backend development and database management skills to grow as a **Software Developer**.
 
 ---
 
-### 💫 About Me  
-🎓 I’m a **Computer Science & Engineering graduate (2025)** who loves turning ideas into interactive and functional projects.  
-💻 I enjoy blending creativity and logic through **Java (OOPs)** and **Web Development**.  
-🌱 Currently sharpening my skills to become a **versatile Software Developer**.  
+### 🧰 Tech Stack & Tools  
+| Category | Skills |
+|-----------|---------|
+| 💡 **Languages** | Java (OOPs), JavaScript |
+| 🎨 **Frontend** | HTML, CSS, JavaScript |
+| 🗄️ **Database** | MySQL |
+| ⚙️ **Tools** | Git, GitHub, Excel |
+| 🚀 **Focus Areas** | Backend Development, Problem Solving, Web Applications |
 
 ---
 
-### 🛠️ My Skill Arsenal  
-💡 **Languages:** Java, JavaScript  
-🎨 **Frontend:** HTML, CSS, JavaScript  
-🗄️ **Database:** MySQL  
-🧰 **Tools:** Git, GitHub, Excel  
-🚀 **Areas of Interest:** Backend Logic, Problem Solving, Automation  
+### 🔥 What I’m Currently Doing  
+- ☕ Strengthening **Java backend** and **SQL** logic  
+- 🌐 Developing **interactive web applications**  
+- ⚙️ Enhancing **version control** workflows using Git & GitHub  
+- 🧠 Solving logical challenges and improving real-world coding efficiency  
 
 ---
 
-### 🔭 Current Focus  
-- ☕ Deep-diving into **Java backend** and **SQL**  
-- 🌐 Building real-world **web projects**  
-- ⚙️ Enhancing **version control** practices using Git & GitHub  
-- 💬 Engaging with developer communities & continuous learning  
+### 🎯 My Vision  
+To grow as a **Software Developer** who combines creativity, problem-solving, and precision to craft solutions that make a difference.  
+I believe in consistent learning, teamwork, and writing clean, maintainable code.  
 
 ---
 
-### 💬 Let’s Collaborate On  
-- Innovative web or backend projects  
-- Clean UI designs and real-world logic integration  
-- Learning and knowledge-sharing sessions 😄  
-
----
-
-### 🌍 Connect With Me  
+### 🤝 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/mohdazimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/mohdazimi083/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -49,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohdazimi&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazimi&layout=compact&theme=tokyonight" height="160px"/>
@@ -57,6 +52,6 @@
 
 ---
 
-### ⚡ Quote I Live By  
-> “Code with logic, design with purpose, and learn with curiosity.”  
-Let’s build something extraordinary together 🚀
+### ⚡ Fun Fact  
+> “Coding isn’t just about syntax — it’s how I express creativity, logic, and growth.”  
+Always learning. Always improving. Always building. 🚀
