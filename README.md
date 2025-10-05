@@ -1,27 +1,27 @@
-<h1 align="center">✨ Hey there, I'm Mohammad Azim 👋</h1>
-<h3 align="center">🚀 Software Developer | ☕ Java Enthusiast | 🌐 Web Developer in Progress</h3>
+<h1 align="center">✨ Hey there, I'm Mohd Azim 👋</h1>
+<h3 align="center">💻 Passionate Software Developer | ☕ Java & Web Enthusiast | 🚀 Lifelong Learner</h3>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohdazimi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
-### 💫 About Me  
-🎓 I’m a **Computer Science & Engineering graduate (2025)** who loves turning ideas into interactive and functional projects.  
-💻 I enjoy blending creativity and logic through **Java (OOPs)** and **Web Development**.  
-🌱 Currently sharpening my skills to become a **versatile Software Developer**.  
+### ✨ About Me  
+🎓 I’m a **B.Tech Computer Science & Engineering graduate (2025)** with a strong passion for building, designing, and optimizing web and software solutions.  
+💻 Skilled in **Web Development** and **Java (OOPs)**, I enjoy transforming ideas into real-world projects that are both functional and impactful.  
+🌱 Currently enhancing my backend development and database management skills to grow as a **Software Developer**.
 
 ---
 
-### 🛠️ My Skill Arsenal  
-💡 **Languages:** Java, JavaScript  
-🎨 **Frontend:** HTML, CSS, JavaScript  
-🗄️ **Database:** MySQL  
-🧰 **Tools:** Git, GitHub, Excel  
-🚀 **Areas of Interest:** Backend Logic, Problem Solving, Automation  
+### 🧰 Tech Stack & Tools  
+| Category | Skills |
+|-----------|---------|
+| 💡 **Languages** | Java (OOPs), JavaScript |
+| 🎨 **Frontend** | HTML, CSS, JavaScript |
+| 🗄️ **Database** | MySQL |
+| ⚙️ **Tools** | Git, GitHub, Excel |
+| 🚀 **Focus Areas** | Backend Development, Problem Solving, Web Applications |
+ 
 
 ---
 
@@ -41,11 +41,18 @@
 ---
 
 ### 🌍 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohdazimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/mohdazimi083/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:mohdazimi083@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/mohdazimi/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohdazimi083@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/mohdazimi083" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
