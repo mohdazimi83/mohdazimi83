@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Mohammad Azim</h1>
+<h1 align="center">👋 Hey there, I'm Mohd Azim</h1>
 <h3 align="center">💻 Passionate Software Developer | ☕ Java & Web Enthusiast | 🚀 Lifelong Learner</h3>
 
 ---
