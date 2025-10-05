@@ -1,57 +1,36 @@
-<h1 align="center">👋 Hey there, I'm Mohd Azim</h1>
-<h3 align="center">💻 Passionate Software Developer | ☕ Java & Web Enthusiast | 🚀 Lifelong Learner</h3>
+<h1 align="center">Hi there! 👋 I'm Mohd Azim</h1>
+<h3 align="center">🎓 Computer Science Graduate | 💻 Aspiring Software Developer | ☕ Java Enthusiast</h3>
 
 ---
 
-### ✨ About Me  
-🎓 I’m a **B.Tech Computer Science & Engineering graduate (2025)** with a strong passion for building, designing, and optimizing web and software solutions.  
-💻 Skilled in **Web Development** and **Java (OOPs)**, I enjoy transforming ideas into real-world projects that are both functional and impactful.  
-🌱 Currently enhancing my backend development and database management skills to grow as a **Software Developer**.
+✨ **About Me**  
+I'm a recent B.Tech graduate in Computer Science & Engineering with a passion for software development. I specialize in backend development using Java and have hands-on experience in building dynamic web applications. I'm eager to contribute to innovative projects and collaborate with teams to create impactful software solutions.
 
 ---
 
-### 🧰 Tech Stack & Tools  
-| Category | Skills |
-|-----------|---------|
-| 💡 **Languages** | Java (OOPs), JavaScript |
-| 🎨 **Frontend** | HTML, CSS, JavaScript |
-| 🗄️ **Database** | MySQL |
-| ⚙️ **Tools** | Git, GitHub, Excel |
-| 🚀 **Focus Areas** | Backend Development, Problem Solving, Web Applications |
+🛠️ **Technologies & Tools**  
+- **Programming Languages:** Java, JavaScript, SQL  
+- **Web Development:** HTML, CSS, PHP  
+- **Backend Frameworks:** Spring Boot, Express.js  
+- **Databases:** MySQL, PostgreSQL  
+- **Version Control:** Git, GitHub  
+- **Productivity Tools:** Microsoft Excel, JIRA, Trello  
+- **Cloud Platforms:** AWS (Beginner)
 
 ---
 
-### 🔥 What I’m Currently Doing  
-- ☕ Strengthening **Java backend** and **SQL** logic  
-- 🌐 Developing **interactive web applications**  
-- ⚙️ Enhancing **version control** workflows using Git & GitHub  
-- 🧠 Solving logical challenges and improving real-world coding efficiency  
+📈 **GitHub Stats**  
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdazimi083&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
-### 🎯 My Vision  
-To grow as a **Software Developer** who combines creativity, problem-solving, and precision to craft solutions that make a difference.  
-I believe in consistent learning, teamwork, and writing clean, maintainable code.  
+🔗 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/mohdazimi/)  
+- [HackerRank](https://www.hackerrank.com/mohdazimi083)  
+- 📧 Email: mohdazimi083@gmail.com
 
 ---
 
-### 🤝 Let’s Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohdazimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/mohdazimi083/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:mohdazimi083@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+⚡ **Quote**  
+> "Software is like gardening; it requires patience, nurturing, and constant attention to grow."
 
----
-
-### 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdazimi&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazimi&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-### ⚡ Fun Fact  
-> “Coding isn’t just about syntax — it’s how I express creativity, logic, and growth.”  
-Always learning. Always improving. Always building. 🚀
