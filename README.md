@@ -48,7 +48,7 @@
   <a href="mailto:mohdazimi083@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/mohdazimi083" target="_blank">
+  <a href="https://www.hackerrank.com/profile/azimroyal95" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
