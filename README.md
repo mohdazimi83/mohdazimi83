@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack & Tools  
 | Category | Skills |
 |-----------|---------|
-| 💡 **Languages** | Java (OOPs), JavaScript |
+| 💡 **Languages** | Java (OOPs), Pyhton, JavaScript |
 | 🎨 **Frontend** | HTML, CSS, JavaScript |
 | 🗄️ **Database** | MySQL |
 | ⚙️ **Tools** | Git, GitHub, Excel |
@@ -26,7 +26,7 @@
 ---
 
 ### 🔭 Current Focus  
-- ☕ Deep-diving into **Java backend** and **SQL**  
+- ☕ Deep-diving into **Java backend** and **Python**  
 - 🌐 Building real-world **web projects**  
 - ⚙️ Enhancing **version control** practices using Git & GitHub  
 - 💬 Engaging with developer communities & continuous learning  
